@@ -69,7 +69,7 @@ Neon Green Terminal • Dark Hacker UI • Private Test Build
 [4] Unban Temporary
 [5] View Banned Numbers
 [6] Exit
-
+```
 ## 🔒 Setup Instructions
 
 ### 📱 Termux Installation
