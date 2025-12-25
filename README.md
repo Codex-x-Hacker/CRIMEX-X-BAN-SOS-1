@@ -83,8 +83,8 @@ pkg install python
 pkg install git
 pip install colorama 
 pip install python-dotenv
-git clone https://github.com/CRYPTOLORD25/Crypto-banning-tools.git
-cd Crypto-banning-tools
+git clone https://github.com/scamer0018/LUCIFER-BAN-SOS-1.git
+cd LUCIFER-BAN-SOS-1
 python ban.py
 ```
 
