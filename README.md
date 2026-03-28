@@ -51,7 +51,7 @@ Everything is optimized for a **dark terminal background** to ensure maximum vis
 </p>
 
 <p align="center">
-<b>DEVELOPER LUCIFER</b><br/>
+<b>DEVELOPER CRIMEX-X </b><br/>
 Neon Green Terminal • Dark Hacker UI • Private Test Build
 </p>
 
